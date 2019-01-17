@@ -8,3 +8,7 @@ Rscript find_closest_feature_baseR.R --f data.txt --o baseR_closest.txt
 ```
 
 ### Tidyverse version
+To run, use the following command:
+```
+Rscript find_closest_feature_tidyverse.R --f data.txt --o tidyverse_closest.txt
+```
